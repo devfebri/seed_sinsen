@@ -1,0 +1,1 @@
+<button onclick='return pilih_salesman_target_salesman_selling_price(<?= $data ?>)' data-dismiss='modal' class="btn btn-xs btn-flat btn-success" type="button"><i class="fa fa-check"></button>

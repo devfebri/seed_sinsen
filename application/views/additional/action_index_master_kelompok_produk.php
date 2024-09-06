@@ -1,0 +1,1 @@
+<a href="h3/kelompok_produk/detail?id=<?= $id ?>" class="btn btn-xs btn-flat btn-info">View</a>
